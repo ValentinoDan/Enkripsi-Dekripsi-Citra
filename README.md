@@ -41,7 +41,7 @@ Proyek Python ini mengimplementasikan proses enkripsi dan dekripsi citra RGB men
 ## 📁 Struktur File
 ```bash
 ├── Enkripsi-Dekripsi-Citra.py
-├── image.png
+├── Image.png
 └── README.md
 ```       
 
