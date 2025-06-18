@@ -73,7 +73,7 @@ G_dec = decrypt_channel(G_unshuffled, key_G)
 B_dec = decrypt_channel(B_unshuffled, key_B)
 dec_image = np.stack((R_dec, G_dec, B_dec), axis=2)
 
-# ====================== TAMPILKAN HASIL ===================================
+# Menampilkan hasil
 plt.figure(figsize=(15, 5))
 plt.suptitle("Proses Enkripsi dan Dekripsi Citra", fontsize=18, fontweight='bold')
 
