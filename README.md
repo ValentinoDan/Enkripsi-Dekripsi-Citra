@@ -1,6 +1,6 @@
 # 🔒 Enkripsi-Dekripsi Citra RGB dengan Perkalian Modular dan Permutasi Piksel
 
-Proyek Python ini mengimplementasikan proses enkripsi dan dekripsi citra RGB menggunakan kombinasi aritmetika modular dan permutasi posisi piksel. Metode ini cocok digunakan sebagai bahan pembelajaran, tugas akhir, atau penelitian di bidang pengolahan citra dan kriptografi sederhana.
+Proyek ini mengimplementasikan proses enkripsi dan dekripsi citra RGB menggunakan kombinasi aritmetika modular, invers modulo, dan permutasi posisi piksel.
 
 ## 📌 Fitur
 
