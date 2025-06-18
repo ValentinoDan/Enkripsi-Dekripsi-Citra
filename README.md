@@ -63,7 +63,7 @@ python Enkripsi-Dekripsi-Citra.py
 
 Hasil enkripsi dan dekripsi citra RGB:
 
-![Hasil Enkripsi dan Dekripsi](image.png)
+![Hasil Enkripsi dan Dekripsi](Image.png)
 
 
 
